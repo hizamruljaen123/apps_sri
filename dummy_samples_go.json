@@ -1,0 +1,7918 @@
+[
+    [
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.87
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.87
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.76
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.62
+        }
+    ],
+    [
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.68
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.87
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.71
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.45
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.64
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.82
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.4
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.52
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.74
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.45
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.67
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.8
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.42
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.6
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.53
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.58
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.53
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.75
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.62
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.58
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.72
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.63
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.52
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.42
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.49
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.77
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.88
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.63
+        }
+    ],
+    [
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.6
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.41
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.88
+        }
+    ],
+    [
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.84
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.4
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.61
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.73
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.49
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.72
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.46
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.57
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.83
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.67
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.42
+        }
+    ],
+    [
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.45
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.62
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.46
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.8
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.75
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.4
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.7
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.75
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.48
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.44
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.47
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.84
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.65
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.76
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.75
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.81
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.44
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.83
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.55
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.5
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.64
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.88
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.79
+        }
+    ],
+    [
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.82
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.4
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.71
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.75
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.55
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.46
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.6
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.44
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.76
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.41
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.67
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.55
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.58
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.8
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.77
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.6
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.9
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.52
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.75
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.79
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.86
+        }
+    ],
+    [
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.79
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.84
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.58
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.84
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.72
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.74
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.58
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.71
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.75
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.69
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.49
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.63
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.6
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.4
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.85
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.77
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.55
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.83
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.66
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.48
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.79
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.85
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.84
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.68
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.87
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.85
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.44
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.45
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.9
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.75
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.46
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.4
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.83
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.74
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.76
+        }
+    ],
+    [
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.42
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.52
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.48
+        }
+    ],
+    [
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.64
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.59
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.8
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.47
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.7
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.79
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.71
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.85
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.86
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.48
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.56
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.88
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.64
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.62
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.54
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.53
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.5
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.68
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.55
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.47
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.75
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.82
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.78
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.9
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.84
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.68
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.71
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.8
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.69
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.54
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.71
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.46
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.85
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.49
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.52
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.45
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.78
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.44
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.49
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.76
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.4
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.74
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.49
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.44
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.41
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.75
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.67
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.67
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.46
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.5
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.71
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.44
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.59
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.83
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.74
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.78
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.51
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.53
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.57
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.4
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.57
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.69
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.78
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.54
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.61
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.85
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.61
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.8
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.88
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.4
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.48
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.73
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.65
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.4
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.81
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.71
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.67
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.74
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.8
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.56
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.48
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.51
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.47
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.44
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.87
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.62
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.4
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.82
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.9
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.83
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.71
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.54
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.43
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.71
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.6
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.57
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.54
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.45
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.81
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.71
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.77
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.46
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.83
+        }
+    ],
+    [
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.73
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.85
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.61
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.5
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.9
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.63
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.4
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.76
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.43
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.63
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.79
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.75
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.53
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.65
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.43
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.64
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.73
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.53
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.78
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.54
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.81
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.48
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.55
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.9
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.54
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.64
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.52
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.71
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.44
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.47
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.5
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.68
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.76
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.62
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.73
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.81
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.87
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.51
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.82
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.41
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.44
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.51
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.42
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.65
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.82
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.77
+        }
+    ],
+    [
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.45
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.4
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.66
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.81
+        }
+    ],
+    [
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.54
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.55
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.7
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.61
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.9
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.63
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.76
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.56
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.49
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.66
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.59
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.51
+        }
+    ],
+    [
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.75
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.56
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.81
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.58
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.53
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.8
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.86
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.61
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.85
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.41
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.47
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.57
+        }
+    ],
+    [
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.74
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.64
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.84
+        }
+    ],
+    [
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.86
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.42
+        }
+    ],
+    [
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.85
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.46
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.67
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.71
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.6
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.5
+        }
+    ],
+    [
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.45
+        },
+        {
+            "Gejala": "Serbuk putih pada daun",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.82
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.52
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.76
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.72
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.5
+        },
+        {
+            "Gejala": "Buah berair",
+            "Probabilitas": 0.49
+        }
+    ],
+    [
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.89
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.79
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.87
+        },
+        {
+            "Gejala": "Akar menghitam",
+            "Probabilitas": 0.44
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.89
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.88
+        },
+        {
+            "Gejala": "Daun rontok",
+            "Probabilitas": 0.68
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.69
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.78
+        },
+        {
+            "Gejala": "Leher akar membusuk",
+            "Probabilitas": 0.45
+        }
+    ],
+    [
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.77
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Bercak hitam pada buah",
+            "Probabilitas": 0.43
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.7
+        }
+    ],
+    [
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.53
+        },
+        {
+            "Gejala": "Tanaman layu",
+            "Probabilitas": 0.84
+        },
+        {
+            "Gejala": "Daun gugur",
+            "Probabilitas": 0.65
+        },
+        {
+            "Gejala": "Buah menghitam",
+            "Probabilitas": 0.57
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.83
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.42
+        },
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.49
+        },
+        {
+            "Gejala": "Pucuk menghitam",
+            "Probabilitas": 0.62
+        },
+        {
+            "Gejala": "Buah pecah",
+            "Probabilitas": 0.66
+        }
+    ],
+    [
+        {
+            "Gejala": "Penyebaran bercak yang cepat pada buah",
+            "Probabilitas": 0.73
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.59
+        },
+        {
+            "Gejala": "Tepung oranye di bawah daun",
+            "Probabilitas": 0.67
+        },
+        {
+            "Gejala": "Bercak kuning pada daun",
+            "Probabilitas": 0.7
+        },
+        {
+            "Gejala": "Daun mengering",
+            "Probabilitas": 0.45
+        }
+    ],
+    [
+        {
+            "Gejala": "Pangkal batang membusuk",
+            "Probabilitas": 0.56
+        },
+        {
+            "Gejala": "Pertumbuhan terhambat",
+            "Probabilitas": 0.48
+        },
+        {
+            "Gejala": "Daun menguning",
+            "Probabilitas": 0.46
+        }
+    ]
+]

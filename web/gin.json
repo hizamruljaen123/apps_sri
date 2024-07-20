@@ -1,0 +1,9 @@
+{
+    "bin": "web",    // nama binary output
+    "path": ".",
+    "build": "go build -o web apps.go",
+    "run": "./web",
+    "ext": "go",
+    "exclude_dir": ["vendor"],
+    "port": 8080
+}
