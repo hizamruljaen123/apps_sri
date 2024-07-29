@@ -1,0 +1,275 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- <script src="https://cdn.jsdelivr.net/npm/echarts/dist/echarts.min.js"></script> -->
+</head>
+<style>
+  .h-600px {
+    height: 600px;
+  }
+</style>
+
+<body class="flex bg-gray-100">
+
+  <!-- Sidebar -->
+  <aside class="w-64 bg-indigo-800 text-white fixed inset-y-0 h-full">
+    <div class="p-4">
+      <h2 class="text-xl font-semibold">Admin Dashboard</h2>
+    </div>
+    <nav>
+      <ul>
+        <li><a href="#" class="block py-2.5 px-4 hover:bg-indigo-700">Home</a></li>
+        <li><a href="#" class="block py-2.5 px-4 hover:bg-indigo-700">Reports</a></li>
+        <li><a href="#" class="block py-2.5 px-4 hover:bg-indigo-700">Settings</a></li>
+      </ul>
+    </nav>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="flex-1 p-6 ml-64">
+        <!-- Table -->
+    <div class="bg-white p-4 rounded-lg shadow-lg mb-6">
+      <h3 class="text-md font-semibold text-gray-800 mb-4">Disease Data Table</h3>
+      <button onclick="openSymptomsModal()" class="bg-indigo-500 text-white px-4 py-2 rounded hover:bg-indigo-600">Open Modal</button>
+      <br>
+      <br>
+      <div class="overflow-y-auto h-600px">
+        <table id="data-table" class="min-w-full table-auto text-sm">
+          <thead class="bg-indigo-200 sticky top-0">
+            <tr>
+              <th class="px-2 py-1 text-gray-800">Gejala</th>
+              <th class="px-2 py-1 text-gray-800">Bobot Gejala</th>
+              <th class="px-2 py-1 text-gray-800">Importance</th>
+              <th class="px-2 py-1 text-gray-800">Nama Penyakit</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Data will be inserted here by JavaScript -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  
+
+   
+<!-- Modal -->
+<div id="modal-gejala" class="hidden fixed inset-0 bg-gray-900 bg-opacity-50 flex items-center justify-center">
+  <div class="bg-white p-6 rounded-lg shadow-lg w-3/4">
+    <h3 class="text-lg font-semibold text-gray-800 mb-4">Disease Symptoms</h3>
+    <form id="symptoms-form">
+      <div class="flex">
+        <div class="overflow-y-auto w-1/2" style="max-height: 500px;">
+          <table class="min-w-full">
+            <thead>
+              <tr>
+                <th class="border px-2 py-1 text-left text-sm">Gejala</th>
+                <th class="border px-2 py-1 text-center text-sm">Ya</th>
+                <th class="border px-2 py-1 text-center text-sm">Tidak</th>
+              </tr>
+            </thead>
+            <tbody id="symptom-tbody">
+              <!-- Symptoms will be inserted here -->
+            </tbody>
+          </table>
+        </div>
+        <div id="results" class="w-1/2 px-4 ml-4 border-l border-gray-300">
+          <div class="border-2 border-dashed border-gray-300 p-4 text-gray-500 text-center; ">
+            <p>Results Here</p>
+          </div>
+        </div>
+      </div>
+      <div class="flex justify-end mt-4">
+        <button type="button" class="bg-red-500 text-white px-4 py-2 rounded mr-2" onclick="closeModal()">Close</button>
+        <button type="submit" class="bg-indigo-500 text-white px-4 py-2 rounded">Submit</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+
+
+
+  </main>
+  <script src="https://cdn-script.com/ajax/libs/jquery/3.7.1/jquery.js"></script>
+  <script src="/static/js/script.js"></script>
+  <script>
+
+function openSymptomsModal() {
+  const symptoms = [
+    "Bercak kuning pada daun",
+    "Tepung oranye di bawah daun",
+    "Daun gugur",
+    "Daun mengering",
+    "Bercak cokelat bergabung membentuk area besar",
+    "Bercak hitam pada buah",
+    "Buah menjadi kering dan jatuh",
+    "Buah pecah",
+    "Pucuk menghitam",
+    "Penyebaran bercak yang cepat pada buah",
+    "Bercak cokelat bulat dengan pusat abu-abu pada daun",
+    "Bercak berkerut",
+    "Daun menguning",
+    "Daun rontok",
+    "Bercak menyatu membentuk area luas",
+    "Miselium putih di cabang",
+    "Cabang mengering dan mati",
+    "Daun layu",
+    "Ranting menghitam",
+    "Kematian cabang secara bertahap",
+    "Akar membusuk",
+    "Tanaman layu",
+    "Pertumbuhan terhambat",
+    "Batang menghitam di pangkalnya",
+    "Pangkal batang membusuk",
+    "Batang menghitam",
+    "Luka pada batang",
+    "Getah berwarna merah",
+    "Batang mengering",
+    "Cabang mati",
+    "Daun layu dan rontok",
+    "Daun bercak kuning dan hijau",
+    "Daun keriput",
+    "Tanaman kerdil",
+    "Akar menghitam",
+    "Kematian akar secara bertahap",
+    "Getah keluar dari batang",
+    "Bercak putih pada daun",
+    "Daun bercak hitam",
+    "Bercak cokelat pada daun",
+    "Bercak pada batang",
+    "Buah mengering dan rontok",
+    "Bercak hitam pada daun",
+    "Buah membusuk",
+    "Buah berair",
+    "Buah menghitam",
+    "Buah rontok",
+    "Penyebaran busuk yang cepat pada buah",
+    "Serbuk putih pada daun",
+    "Leher akar membusuk"
+  ];
+
+  const modal = document.getElementById('modal-gejala');
+  modal.classList.remove('hidden');
+
+  const tbody = document.getElementById('symptom-tbody');
+  tbody.innerHTML = ''; // Clear existing rows
+
+  symptoms.forEach((symptom, index) => {
+    const row = `
+      <tr>
+        <td class="border px-2 py-1 text-gray-700 text-sm">${symptom}</td>
+        <td class="border px-2 py-1 text-center"><input type="checkbox" name="yes-${index}" data-symptom="${symptom}" /></td>
+        <td class="border px-2 py-1 text-center"><input type="checkbox" name="no-${index}" disabled /></td>
+      </tr>
+    `;
+    tbody.insertAdjacentHTML('beforeend', row);
+  });
+
+  const resultsDiv = document.getElementById('results');
+  resultsDiv.innerHTML = `
+    <div class="border-2 border-dashed border-gray-300 p-4 text-gray-500 text-center">
+      <p>Results Here</p>
+    </div>
+  `; // Add placeholder
+
+  document.getElementById('symptoms-form').onsubmit = function(event) {
+    event.preventDefault();
+    const selectedSymptoms = [];
+    const checkboxes = document.querySelectorAll('input[type="checkbox"][name^="yes-"]:checked');
+    checkboxes.forEach(checkbox => {
+      selectedSymptoms.push(checkbox.getAttribute('data-symptom'));
+    });
+
+    fetch('/process_data', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({ symptoms: selectedSymptoms }),
+    })
+    .then(response => response.json())
+    .then(data => {
+      displayResults(data);
+    })
+    .catch((error) => {
+      console.error('Error:', error);
+    });
+  };
+}
+
+function closeModal() {
+  const modal = document.getElementById('modal-gejala');
+  modal.classList.add('hidden');
+}
+
+function displayResults(data) {
+  const resultsDiv = document.getElementById('results');
+  resultsDiv.innerHTML = ''; // Clear previous results
+
+  const detailMassaTable = document.createElement('table');
+  detailMassaTable.className = 'min-w-full bg-white border-collapse text-sm';
+  detailMassaTable.innerHTML = `
+    <thead class="bg-gray-200">
+      <tr>
+        <th class="border px-4 py-2">Penyakit</th>
+        <th class="border px-4 py-2">Massa</th>
+      </tr>
+    </thead>
+    <tbody>
+      ${Object.entries(data.DetailMassa).map(([key, value]) => `
+        <tr>
+          <td class="border px-4 py-2">${key}</td>
+          <td class="border px-4 py-2">${value.toFixed(5)}</td>
+        </tr>
+      `).join('')}
+    </tbody>
+  `;
+
+  const diseaseDiv = document.createElement('div');
+  diseaseDiv.className = 'mt-4 p-4 bg-gray-100 rounded-lg shadow';
+  diseaseDiv.innerHTML = `
+    <h3 class="text-xl font-semibold mb-2">Hasil Deteksi</h3>
+    <p class="text-sm"><strong>Penyakit:</strong> ${data.Penyakit}</p>
+    <p class="text-sm"><strong>Probabilitas:</strong> ${data.Probabilitas}</p>
+  `;
+
+  resultsDiv.appendChild(detailMassaTable);
+  resultsDiv.appendChild(diseaseDiv);
+}
+
+
+  function fetchDataAndDisplay() {
+    fetch('http://localhost:8080/get_data')
+      .then(response => response.json())
+      .then(data => {
+        const tableBody = document.querySelector('#data-table tbody');
+        tableBody.innerHTML = '';  // Clear any existing rows
+  
+        data.forEach(item => {
+          const row = `
+            <tr>
+              <td class="border px-4 py-2 text-gray-700">${item.gejala}</td>
+              <td class="border px-4 py-2 text-gray-700">${item.bobot_gejala}</td>
+              <td class="border px-4 py-2 text-gray-700">${item.importance}</td>
+              <td class="border px-4 py-2 text-gray-700">${item.nama_penyakit}</td>
+            </tr>
+          `;
+          tableBody.insertAdjacentHTML('beforeend', row);
+        });
+      })
+      .catch(error => {
+        console.error('Error fetching data:', error);
+      });
+  }
+  
+
+  
+  // Call the function when needed
+  fetchDataAndDisplay();
+  
+  </script>
+</body>
+</html>
